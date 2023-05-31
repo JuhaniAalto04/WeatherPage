@@ -1,0 +1,24 @@
+#table-container{
+width: 45%;
+margin-left:auto;
+margin-right:auto;
+margin-top: 3%;
+
+}
+#table{
+  border-radius: 48px;
+  overflow: hidden;
+}
+#view{
+  display: none;
+}
+#box{
+  display: flex;
+  flex-direction: row;
+}
+#chart-container{
+  background-color: lavenderblush;
+  width: 45%;
+margin: auto;
+height: 500px;
+}
